@@ -1,4 +1,4 @@
-![Avito_DATA](Data_Analysis.jpg)
+![Avito_DATA](Data_Analysis.png)
 
 
 
